@@ -26,7 +26,7 @@ The personas adapt based on signals in the job description:
 
 ### Step 1 — Open a new conversation
 
-Go to [Claude](https://claude.ai) or [Gemini](https://gemini.google.com). Start a new chat.
+Go to [Claude](https://claude.ai), [Gemini](https://gemini.google.com) [ChatGPT](https://chatgpt.com/) . Start a new chat.
 
 ### Step 2 — Paste the prompt
 
